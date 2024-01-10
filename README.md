@@ -7,7 +7,6 @@
 - 👯 I’m looking to collaborate on: Projects involving full-stack development, microservices architecture, or cloud-native applications.
 - 🤔 I’m looking for help with: `Kubernetes` security practices and best practices for securing containerized applications.
 - 📫 How to reach me: Feel free to send me a message on GitHub or connect with me on LinKedin [here](https://www.linkedin.com/in/mo-ghatt).
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm an avid ping pong player, love experimenting with cooking exotic dishes, and make some mean homemade pizzas.
 
 
