@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on: Building a microservices-based web application using `React` for the frontend and `.NET` for the backend and CI/CD with Azure Devops.
+- 🔭 I’m currently working on: Building a microservices-based web application using `React` for the frontend and `.NET` for the backend and CI/CD with `Azure Devops`.
 - 🌱 I’m currently learning: `AWS Lambda` for serverless architecture, and `Docker` and `Kubernetes` for container orchestration.
 - 👯 I’m looking to collaborate on: Projects involving full-stack development, microservices architecture, or cloud-native applications.
 - 🤔 I’m looking for help with: `Kubernetes` security practices and best practices for securing containerized applications.
